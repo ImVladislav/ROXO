@@ -1,0 +1,912 @@
+Uri: https://fonts.googleapis.com/css?family=Syne:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Sniglet:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Luckiest+Guy:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Snowburst+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Grandstander:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1-_P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1-_P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD22-P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD22-P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD4G5P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD4G5P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD7i5P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD7i5P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9--P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9--P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9-5P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9-5P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQDwG-P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQDwG-P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD_a5P3_csg.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD_a5P3_csg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf91TvstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf91TvstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zrstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zrstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zvstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf95zvstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ADzstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ADzstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9OTzstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9OTzstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9TjzstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9TjzstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9uTvstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9uTvstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ZzvstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ZzvstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandstander/v18/ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ZzzstflH.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\grandstander\v18\ga6ZawtA-GpSsTWrnNHPCSImbyq1fDGZrzwXGpf9ZzzstflH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/luckiestguy/v23/_gP_1RrxsjcxVyin9l9n_j2hTd5z.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\luckiestguy\v23\_gP_1RrxsjcxVyin9l9n_j2hTd5z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sniglet/v17/cIf4MaFLtkE3UjaJ_ImHdGYmmA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\sniglet\v17\cIf4MaFLtkE3UjaJ_ImHdGYmmA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sniglet/v17/cIf9MaFLtkE3UjaJ9C6hZA.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\sniglet\v17\cIf9MaFLtkE3UjaJ9C6hZA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/snowburstone/v20/MQpS-WezKdujBsXY3B7I-UT7SZieOw.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\snowburstone\v20\MQpS-WezKdujBsXY3B7I-UT7SZieOw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTYo.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6jTYo.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_0KuQ6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6jTYo.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_24vg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf
+Content Type: font/ttf
+
+Uri: https://patpolygon.xyz/
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\index.htm
+Content Type: text/html
+
+Uri: https://patpolygon.xyz/comments/feed/
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://patpolygon.xyz/feed/
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/assets/css/copy-inline.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\assets\css\copy-inline.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/assets/js/clipboard.js?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\assets\js\clipboard.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/assets/js/copy-inline.js?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\assets\js\copy-inline.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/blocks/assets/css/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\blocks\assets\css\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/blocks/assets/js/core.js?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\blocks\assets\js\core.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/ai-prompt-generator/script.js?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\ai-prompt-generator\script.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/ai-prompt-generator/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\ai-prompt-generator\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/blockquote/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\blockquote\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/code-snippet/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\code-snippet\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/contact-information/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\contact-information\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/copy-icon/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\copy-icon\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/coupon/script.js?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\coupon\script.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/coupon/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\coupon\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/deal/script.js?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\deal\script.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/deal/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\deal\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/email-address/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\email-address\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/email-sample/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\email-sample\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/message/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\message\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/phone-number/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\phone-number\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/shayari/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\shayari\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/sms/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\sms\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/table/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\table\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/elementor/widgets/wish/style.css?ver=4.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\elementor\widgets\wish\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/gutenberg/blocks/copy-button/js/frontend.js?ver=1.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\gutenberg\blocks\copy-button\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/copy-the-code/classes/gutenberg/blocks/copy-icon/js/frontend.js?ver=1.0.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\copy-the-code\classes\gutenberg\blocks\copy-icon\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.23.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-image-box.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/animations/styles/bounceInLeft.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\animations\styles\bounceInLeft.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=3.24.4
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-float.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.10.53
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=6.0.6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=6.0.6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.2.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.0.6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.0.6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://patpolygon.xyz/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.12.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.12.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\happy-elementor-addons\assets\vendor\dom-purify\purify.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.42
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.42
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\header-footer-elementor\inc\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.42
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=3.9.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\metform\public\assets\css\text-editor.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.9.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\metform\public\assets\lib\cute-alert\cute-alert.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=3.9.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\metform\public\assets\lib\cute-alert\style.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?1jmcw0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?1jmcw0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?1jmcw0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?1jmcw0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\editor\fonts\pa-elements.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.53
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\premium-addons.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/anime.min.js?ver=4.10.53
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\anime.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-floating-effects.min.js?ver=4.10.53
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-floating-effects.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-wrapper-link.min.js?ver=4.10.53
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-wrapper-link.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.3.986
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.3.986
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\text-animations.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.3.986
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\js\lib\jarallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\js\lib\parallax\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\js\lib\particles\particles.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.3.986
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\royal-elementor-addons\assets\js\modal-popups.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/elegant.css?ver=1.0.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\css\elegant.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/linearicons.css?ver=1.0.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\css\linearicons.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/themify.css?ver=1.0.8
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\css\themify.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.eot
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.eot?
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.svg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.ttf
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.woff
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.eot?
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.eot?w118d
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.svg?w118d
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.woff?w118d
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.eot?-fvbane
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.svg?-fvbane
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.ttf?-fvbane
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://patpolygon.xyz/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.woff?-fvbane
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://patpolygon.xyz/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Comp-17.gif
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Comp-17.gif
+Content Type: image/gif
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM-180x180.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM-180x180.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM-192x192.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM-192x192.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM-32x32.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM-32x32.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\cropped-WhatsApp-Image-2024-09-15-at-11.40.29 AM.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/IMG_3843.gif
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\IMG_3843.gif
+Content Type: image/gif
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/PAT-ON-COMPUTER-1024x1024.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\PAT-ON-COMPUTER-1024x1024.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/PAT-ON-COMPUTER-150x150.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\PAT-ON-COMPUTER-150x150.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/PAT-ON-COMPUTER-300x300.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\PAT-ON-COMPUTER-300x300.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/PAT-ON-COMPUTER-650x650.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\PAT-ON-COMPUTER-650x650.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/PAT-ON-COMPUTER-768x768.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\PAT-ON-COMPUTER-768x768.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/PAT-ON-COMPUTER.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\PAT-ON-COMPUTER.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-1-4-150x150.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-1-4-150x150.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-1-4-300x300.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-1-4-300x300.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-1-4.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-1-4.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-30-150x150.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-30-150x150.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-30-300x300.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-30-300x300.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-30.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-30.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-33-150x150.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-33-150x150.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-33-300x300.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-33-300x300.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/Untitled-design-33.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\Untitled-design-33.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-11.40.29 AM.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\WhatsApp-Image-2024-09-15-at-11.40.29 AM.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-11.40.31 AM.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\WhatsApp-Image-2024-09-15-at-11.40.31 AM.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/WhatsApp-Image-2024-9-15-at-11.40.32 AM.jpeg
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\WhatsApp-Image-2024-9-15-at-11.40.32 AM.jpeg
+Content Type: image/jpeg
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/WhatsApp_Image_2024-09-15_at_11.40.32_AM-removebg-preview-150x150.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\WhatsApp_Image_2024-09-15_at_11.40.32_AM-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/WhatsApp_Image_2024-09-15_at_11.40.32_AM-removebg-preview-300x300.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\WhatsApp_Image_2024-09-15_at_11.40.32_AM-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/2024/09/WhatsApp_Image_2024-09-15_at_11.40.32_AM-removebg-preview.png
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\2024\09\WhatsApp_Image_2024-09-15_at_11.40.32_AM-removebg-preview.png
+Content Type: image/png
+
+Uri: https://patpolygon.xyz/wp-content/uploads/elementor/css/post-10.css?ver=1732233918
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\elementor\css\post-10.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/uploads/elementor/css/post-190.css?ver=1732233920
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\elementor\css\post-190.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/uploads/elementor/css/post-71.css?ver=1732233919
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\elementor\css\post-71.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-content/uploads/elementor/css/post-73.css?ver=1732233920
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-content\uploads\elementor\css\post-73.css
+Content Type: text/css
+
+Uri: https://patpolygon.xyz/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://patpolygon.xyz/wp-json/
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://patpolygon.xyz/wp-json/oembed/1.0/embed?url=https:%2F%2Fpatpolygon.xyz%2F
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://patpolygon.xyz/wp-json/oembed/1.0/embed?url=https:%2F%2Fpatpolygon.xyz%2F&format=xml
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://patpolygon.xyz/wp-json/wp/v2/pages/71
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\wp-json\wp\v2\pages\71
+Content Type: application/json
+
+Uri: https://patpolygon.xyz/xmlrpc.php?rsd
+File Name: C:\work\Downloaded Web Sites\15.01\patpolygon.xyz\xmlrpc.php
+Content Type: text/xml
+
