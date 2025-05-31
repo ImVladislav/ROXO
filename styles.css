@@ -490,366 +490,271 @@ body {
 
 /* How to Buy Section */
 .how-to-buy {
-    padding: 100px 5%;
-    background: rgba(108, 99, 255, 0.05);
+    min-height: 100vh;
+    background: #A86EE3;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 20px;
+    position: relative;
+    overflow-x: hidden;
+    width: 100%;
 }
 
-.steps {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    margin-top: 3rem;
+.how-to-buy-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
-.step-card {
-    background: rgba(255, 255, 255, 0.05);
-    padding: 2rem;
-    border-radius: 15px;
+.how-to-buy-left {
+    flex: 0 0 auto;
     text-align: center;
 }
 
-.step-card h3 {
+.how-to-buy h2 {
     font-family: 'Milkyway', cursive;
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
+    font-size: 5rem;
+    color: #DEFF00;
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-text-stroke: 2px black;
+    text-stroke: 2px black;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
-.step-card p {
+.buy-button {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.buy-button img {
+    width: 200px;
+    height: auto;
+}
+
+.buy-button:hover {
+    transform: translateY(-2px);
+}
+
+.how-to-buy-right {
+    flex: 0 0 550px;
+    max-width: 550px;
+    width: 100%;
+}
+
+.how-to-buy-swiper {
+    width: 100%;
+    max-width: 550px;
+}
+
+.instruction-box {
+    background: #A86EE3;
+    border: 2px solid #DEFF00;
+    padding: 40px;
+    border-radius: 15px;
+    position: relative;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.instruction-box .step {
+    font-family: 'Milkyway', cursive;
+    font-size: 3rem;
+    color: #DEFF00;
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
+    margin-bottom: 10px;
+}
+
+.instruction-box .title {
+    font-family: 'Milkyway', cursive;
+    font-size: 2.5rem;
+    color: #DEFF00;
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
+    margin-bottom: 20px;
+}
+
+.instruction-box p {
     font-family: 'Dogfiles', sans-serif;
     font-size: 1.2rem;
+    color: #DEFF00;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.swiper-pagination {
+    position: absolute !important;
+    bottom: 20px !important;
+    left: 0 !important;
+    right: 0 !important;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.swiper-pagination-bullet {
+    width: 10px !important;
+    height: 10px !important;
+    background: #DEFF00 !important;
+    opacity: 0.5 !important;
+    margin: 0 !important;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1 !important;
 }
 
 /* Links Section */
-.links {
-    padding: 100px 5%;
+.links-section {
+    margin-top: auto;
     text-align: center;
+    padding-top: 60px;
+}
+
+.links-section h3 {
+    font-family: 'Milkyway', cursive;
+    font-size: 2rem;
+    color: #DEFF00;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
 }
 
 .social-links {
     display: flex;
     justify-content: center;
-    gap: 2rem;
-    margin-top: 2rem;
+    gap: 15px;
 }
 
-.social-links a {
-    color: var(--text-color);
-    font-size: 2rem;
-    transition: color 0.3s;
+.social-link {
+    background: #8B4FD8;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
 }
 
-.social-links a:hover {
-    color: var(--primary-color);
+.social-link img {
+    width: 25px;
+    height: 25px;
 }
 
-/* Responsive Design */
-@media screen and (max-width: 1400px) {
-    .hero-content {
-        width: 60%;
-    }
+.social-link:hover {
+    transform: translateY(-2px);
 }
 
+/* Responsive Styles */
 @media screen and (max-width: 1200px) {
-    .hero-content {
-        width: 60%;
-    }
-    
-    .hero-title {
-        max-width: 400px;
+    .how-to-buy-container {
+        gap: 40px;
+        padding: 40px 30px;
     }
 
-    .tokenomics-wrapper {
-        margin: 60px 0;
+    .how-to-buy-right {
+        flex: 0 0 500px;
+        max-width: 500px;
     }
 
-    .tokenomics-image.left {
-        padding-right: 15px;
-    }
-
-    .tokenomics-image.right {
-        padding-left: 15px;
-    }
-
-    .tokenomics-image.left img {
-        height: 300px;
-    }
-
-    .tokenomics-image.right img {
-        height: 250px;
-    }
-
-    .tokenomics-content p {
-        margin: 12px 0;
+    .how-to-buy h2 {
+        font-size: 4.5rem;
     }
 }
 
 @media screen and (max-width: 992px) {
-    .hero-content {
-        width: 70%;
-    }
-
-    .about-content {
+    .how-to-buy-container {
         flex-direction: column;
-        text-align: center;
-        gap: 2rem;
+        align-items: center;
+        gap: 40px;
+        padding: 40px 20px;
     }
 
-    .about-text {
-        max-width: 100%;
+    .how-to-buy-right {
+        flex: 0 0 auto;
+        width: 100%;
+        max-width: 550px;
     }
 
-    .about-text h2 {
-        font-size: 3rem;
-    }
-
-    .about-image {
-        max-width: 400px;
-        margin: 0 auto;
+    .instruction-box {
+        width: 100%;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .burger {
-        display: block;
-        z-index: 2;
+    .how-to-buy-container {
+        padding: 30px 20px;
     }
 
-    .nav-links {
-        position: fixed;
-        right: -100%;
-        top: 0;
-        height: 100vh;
-        background: var(--background-color);
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        transition: right 0.5s ease;
-        gap: 2rem;
+    .how-to-buy h2 {
+        font-size: 4rem;
     }
 
-    .nav-links a {
-        font-size: 1.2rem;
+    .buy-button img {
+        width: 180px;
     }
 
-    .nav-active {
-        right: 0;
-    }
-    
-    .hero {
-        min-height: 100vh;
-        padding: 100px 5% 30px;
-        justify-content: center;
+    .instruction-box {
+        padding: 30px 20px;
+        min-height: 250px;
     }
 
-    .hero::before {
-        background-image: url('./img/bgMob.png');
-    }
-
-    .hero-content {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        min-height: calc(100vh - 150px);
-        margin: 0;
-        padding: 0;
-    }
-
-    .hero-text {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        margin-top: 20px;
-        width: 100%;
-    }
-
-    .hero-title {
-        max-width: 400px;
-        width: 90%;
-    }
-
-    .hero-content p {
-        font-size: 1.2rem;
-        text-align: center;
-        max-width: 90%;
-    }
-
-    .hero-buttons {
-        margin-top: auto;
-        padding-bottom: 30px;
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }
-
-    .coming-soon-btn {
-        height: 55px;
-    }
-
-    .ticker::after {
-        font-size: 1.2rem;
-    }
-
-    .about {
-        padding: 60px 5%;
-    }
-
-    .about-text h2 {
+    .instruction-box .step {
         font-size: 2.5rem;
     }
 
-    .about-text p {
-        font-size: 1rem;
+    .instruction-box .title {
+        font-size: 2rem;
     }
 
-    .about-image {
-        max-width: 300px;
-    }
-
-    .tokenomics h2 {
-        -webkit-text-stroke: 1.5px black;
-        text-stroke: 1.5px black;
-    }
-
-    .tokenomics-wrapper {
-        padding: 0 2%;
-        margin: 40px 0;
-    }
-
-    .tokenomics-image.left {
-        padding-right: 10px;
-    }
-
-    .tokenomics-image.right {
-        padding-left: 10px;
-    }
-
-    .tokenomics-content {
-        padding: 0 15px;
-    }
-
-    .tokenomics-content p {
-        font-size: 1.8rem;
-        margin: 10px 0;
-        -webkit-text-stroke: 0.8px black;
-        text-stroke: 0.8px black;
-    }
-
-    .tokenomics-image.left img {
-        height: 200px;
-    }
-
-    .tokenomics-image.right img {
-        height: 250px;
-    }
-
-    .bottom-ticker .ticker::after {
-        font-size: 1.5rem;
-    }
-}
-
-@media screen and (max-width: 576px) {
-    .hero {
-        height: calc(60vh - 120px);
-        padding: 80px 5% 0;
-    }
-
-    .ticker-item {
-        font-size: 1rem;
-        padding: 0 1rem;
+    .instruction-box p {
+        font-size: 1.1rem;
+        margin-bottom: 30px;
     }
 }
 
 @media screen and (max-width: 480px) {
-    .hero {
-        padding: 80px 5% 20px;
+    .how-to-buy-container {
+        padding: 20px 15px;
     }
 
-    .hero-content {
-        min-height: calc(100vh - 120px);
+    .how-to-buy h2 {
+        font-size: 3.5rem;
     }
 
-    .hero-text {
-        margin-top: 10px;
+    .buy-button img {
+        width: 160px;
     }
 
-    .hero-title {
-        max-width: 320px;
-        width: 95%;
+    .instruction-box {
+        padding: 20px 15px;
+        min-height: 200px;
     }
 
-    .hero-content p {
-        font-size: 1.1rem;
-        padding: 0 15px;
-        width: 90%;
-    }
-
-    .hero-buttons {
-        padding-bottom: 20px;
-    }
-
-    .coming-soon-btn {
-        height: 50px;
-    }
-
-    .ticker::after {
-        font-size: 1rem;
-    }
-
-    .about {
-        padding: 40px 5%;
-    }
-
-    .about-text h2 {
+    .instruction-box .step {
         font-size: 2rem;
     }
 
-    .about-image {
-        max-width: 250px;
+    .instruction-box .title {
+        font-size: 1.8rem;
     }
 
-    .tokenomics h2 {
-        -webkit-text-stroke: 1px black;
-        text-stroke: 1px black;
-    }
-
-    .tokenomics-wrapper {
-        padding: 0 1%;
-        margin: 30px 0;
-    }
-
-    .tokenomics-image.left {
-        padding-right: 5px;
-    }
-
-    .tokenomics-image.right {
-        padding-left: 5px;
-    }
-
-    .tokenomics-content {
-        padding: 0 10px;
-    }
-
-    .tokenomics-content p {
-        font-size: 1.4rem;
-        margin: 8px 0;
-        -webkit-text-stroke: 0.5px black;
-        text-stroke: 0.5px black;
-    }
-
-    .tokenomics-image.left img {
-        height: 150px;
-    }
-
-    .tokenomics-image.right img {
-        height: 200px;
-    }
-
-    .bottom-ticker .ticker::after {
-        font-size: 1.2rem;
+    .instruction-box p {
+        font-size: 1rem;
+        margin-bottom: 25px;
     }
 }
 
