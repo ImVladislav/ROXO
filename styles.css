@@ -716,36 +716,45 @@ body {
         margin-right: 0;
     }
 
+    .how-to-buy h2 {
+        font-size: 4rem;
+        text-align: center;
+    }
+
     .how-to-buy-right {
         width: 100%;
         max-width: 800px;
     }
+
+    .instruction-box {
+        min-height: 350px;
+    }
 }
 
 @media screen and (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+    }
+
     .how-to-buy {
         padding: 30px 0;
+    }
+
+    .how-to-buy h2 {
+        font-size: 3.5rem;
     }
 
     .how-to-buy-container {
         padding: 30px 15px;
     }
 
-    .how-to-buy h2 {
-        font-size: 4rem;
-    }
-
-    .buy-button img {
-        width: 180px;
-    }
-
     .instruction-box {
         padding: 25px;
-        min-height: 280px;
-    }
-    
-    .instruction-content {
-        margin-bottom: 15px;
+        min-height: 300px;
     }
 
     .instruction-box .step {
@@ -760,12 +769,34 @@ body {
         font-size: 1.1rem;
     }
 
-    .swiper-pagination {
-        bottom: -25px !important;
+    .hero-content {
+        width: 80%;
+        margin-top: 0;
     }
 
-    .how-to-buy-swiper {
-        padding-bottom: 35px;
+    .hero-title {
+        max-width: 100%;
+    }
+
+    .about-content {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .about-text {
+        max-width: 100%;
+    }
+
+    .about-image {
+        max-width: 80%;
+    }
+
+    .tokenomics h2 {
+        font-size: 4rem;
+    }
+
+    .tokenomics-content p {
+        font-size: 2rem;
     }
 }
 
@@ -774,25 +805,18 @@ body {
         padding: 20px 0;
     }
 
+    .how-to-buy h2 {
+        font-size: 3rem;
+        line-height: 1.2;
+    }
+
     .how-to-buy-container {
         padding: 20px 10px;
     }
 
-    .how-to-buy h2 {
-        font-size: 3.5rem;
-    }
-
-    .buy-button img {
-        width: 160px;
-    }
-
     .instruction-box {
         padding: 20px;
-        min-height: 260px;
-    }
-    
-    .instruction-content {
-        margin-bottom: 10px;
+        min-height: 280px;
     }
 
     .instruction-box .step {
@@ -805,18 +829,46 @@ body {
 
     .instruction-box p {
         font-size: 1rem;
+        line-height: 1.4;
     }
 
-    .swiper-pagination {
-        bottom: -20px !important;
+    .hero-content {
+        width: 90%;
+        padding: 15px;
     }
 
-    .how-to-buy-swiper {
-        padding-bottom: 30px;
+    .hero-content p {
+        font-size: 1rem;
+    }
+
+    .about-text h2 {
+        font-size: 2.5rem;
+    }
+
+    .about-text p {
+        font-size: 1rem;
+    }
+
+    .tokenomics h2 {
+        font-size: 3rem;
+    }
+
+    .tokenomics-content p {
+        font-size: 1.6rem;
+    }
+
+    .tokenomics-image.left img,
+    .tokenomics-image.right img {
+        height: auto;
+        width: 80%;
+    }
+
+    .links-section h3 {
+        font-size: 1.8rem;
     }
 
     .social-links {
-        gap: 10px;
+        gap: 12px;
     }
 
     .social-link {
@@ -828,6 +880,20 @@ body {
         width: 45px;
         height: 45px;
     }
+}
+
+/* Додаємо стилі для мобільного меню */
+.nav-active {
+    display: flex !important;
+    position: fixed;
+    right: 0;
+    top: 80px;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.95);
+    width: 100%;
+    align-items: center;
+    padding: 20px 0;
+    gap: 20px;
 }
 
 /* Для дуже високих екранів */
