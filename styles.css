@@ -319,7 +319,7 @@ body {
     position: relative;
     border-top: 1px solid rgba(0, 0, 0, 0.9);
     border-bottom: 1px solid rgba(0, 0, 0, 0.9);
-    margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 .ticker {
@@ -327,10 +327,24 @@ body {
     display: flex;
     align-items: center;
     white-space: nowrap;
-    animation: ticker 12s linear infinite;
+    animation: ticker 2s linear infinite;
     padding-left: 0;
+      display: inline-block;
+  white-space: nowrap;
+  will-change: transform;
+  animation: ticker 200s linear infinite;
 }
 
+
+@keyframes ticker {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
 .ticker-item {
     display: inline-flex;
     align-items: center;
@@ -342,7 +356,7 @@ body {
 }
 
 .ticker-item:after {
-    content: "ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL";
+    content: "Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL";
 }
 
 @keyframes ticker {
@@ -504,12 +518,13 @@ body {
 
 .bottom-ticker {
     width: 100%;
-    height: 60px;
+    height: 50px;
     background: #000;
     overflow: hidden;
     border-top: 1px solid rgba(0, 0, 0, 0.9);
     border-bottom: 1px solid rgba(0, 0, 0, 0.9);
-    padding-top: 14px;
+    /* padding-top: 14px; */
+    line-height: 1;
 }
 
 .bottom-ticker .ticker {
@@ -518,7 +533,7 @@ body {
 }
 
 .bottom-ticker .ticker::after {
-    content: "ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL";
+    content: "Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL\00a0\00a0Roxo On SOL";
     font-family: 'Milkyway', cursive;
     font-size: 3.5rem;
     color: #A86EE3;
@@ -616,12 +631,19 @@ body {
 
 .instruction-box .step {
     font-family: 'Milkyway', cursive;
-    font-size: 3.5rem;
+    font-size: 3rem;
     color: #DEFF00;
     -webkit-text-stroke: 3px black;
     text-stroke: 3px black;
 }
-
+ .number {
+    font-family: 'Milkyway', cursive;
+    font-weight: 900;
+    font-size: 2rem;
+    color: #DEFF00;
+    -webkit-text-stroke: 2px black;
+    text-stroke: 2px black;
+}
 .instruction-box .title {
     font-family: 'Milkyway', cursive;
     font-size: 3.5rem;
@@ -1000,7 +1022,7 @@ body {
     }
 
     .about-text h2 {
-        font-size: 9rem;;
+        font-size: 7rem;;
     }
 
     .about-text p {
@@ -1085,8 +1107,8 @@ h2 {
 
 .about-text h2 {
     font-family: 'Milkyway', cursive;
-    font-size: 9rem;;
-    margin-bottom: -4.5rem;
+    font-size: 7rem;;
+    margin-bottom: -4rem;
     
 }
 
