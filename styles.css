@@ -508,6 +508,7 @@ body {
     padding: 40px 5%;
     width: 100%;
     box-sizing: border-box;
+    align-items: center;
 }
 
 .how-to-buy-left {
@@ -557,11 +558,11 @@ body {
 
 .instruction-box {
     background: #A86EE3;
-    border: 2px solid #DEFF00;
+    border: 6px solid #deff02;
     padding: 30px;
-    border-radius: 15px;
+    border-radius: 6px;
     position: relative;
-    min-height: 320px;
+    min-height: 400px;
     display: flex;
     flex-direction: column;
     width: 100%;
