@@ -769,9 +769,16 @@ body {
         font-size: 1.1rem;
     }
 
+    .hero {
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
     .hero-content {
         width: 80%;
         margin-top: 0;
+        margin-bottom: 40px;
+        align-self: flex-end;
     }
 
     .hero-title {
@@ -798,6 +805,10 @@ body {
     .tokenomics-content p {
         font-size: 2rem;
     }
+
+    .hero::before {
+        background-image: url('./img/bgMob.png');
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -816,7 +827,7 @@ body {
 
     .instruction-box {
         padding: 20px;
-        min-height: 280px;
+        min-height: 320px;
     }
 
     .instruction-box .step {
@@ -835,6 +846,7 @@ body {
     .hero-content {
         width: 90%;
         padding: 15px;
+        margin-bottom: 30px;
     }
 
     .hero-content p {
