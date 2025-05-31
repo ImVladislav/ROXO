@@ -1,0 +1,906 @@
+/* Font faces */
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('fonts/SpaceGrotesk-Light.woff2') format('woff2'),
+         url('fonts/SpaceGrotesk-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('fonts/SpaceGrotesk-Regular.woff2') format('woff2'),
+         url('fonts/SpaceGrotesk-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('fonts/SpaceGrotesk-Medium.woff2') format('woff2'),
+         url('fonts/SpaceGrotesk-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('fonts/SpaceGrotesk-SemiBold.woff2') format('woff2'),
+         url('fonts/SpaceGrotesk-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('fonts/SpaceGrotesk-Bold.woff2') format('woff2'),
+         url('fonts/SpaceGrotesk-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Dogfiles';
+    src: url('./fonts/DOGFILES.OTF') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'Milkyway';
+    src: url('./fonts/MILKYWAY DEMO.TTF') format('truetype');
+  }
+/* Global Styles */
+:root {
+    --primary-color: #FF3D00;
+    --secondary-color: #141414;
+    --accent-color: #FF6B6B;
+    --background-color: #000000;
+    --text-color: #FFFFFF;
+    --nav-text-color: #8A3FFC;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Navigation */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    height: 80px;
+}
+
+.logo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+    padding: 10px 0;
+}
+
+.nav-links {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.nav-links a {
+    color: var(--nav-text-color);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    position: relative;
+    padding: 5px 0;
+    font-family: 'Dogfiles', sans-serif;
+}
+
+.nav-links a:hover {
+    color: var(--nav-text-color);
+    transform: translateY(-2px);
+}
+
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--nav-text-color);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.nav-links a:hover::after {
+    transform: scaleX(1);
+}
+
+.buy-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.buy-button::after {
+    display: none;
+}
+
+.buy-button img {
+    height: 55px;
+    width: auto;
+}
+
+.buy-button:hover {
+    transform: translateY(-2px);
+}
+
+/* Збільшуємо розмір кнопки в хедері */
+.navbar .buy-button img {
+    height: 60px;
+}
+
+/* Burger Menu */
+.burger {
+    display: none;
+    cursor: pointer;
+}
+
+.burger div {
+    width: 25px;
+    height: 2px;
+    background-color: var(--text-color);
+    margin: 5px;
+    transition: all 0.3s ease;
+}
+
+/* Mobile Navigation */
+@keyframes navLinkFade {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Burger Animation */
+.toggle .line1 {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.toggle .line2 {
+    opacity: 0;
+}
+
+.toggle .line3 {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 80px 5% 0;
+    overflow: visible;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('./img/hero_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+.hero-content {
+    text-align: center;
+    width: 50%;
+    position: relative;
+    z-index: 2;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -5%;
+}
+
+.hero-title {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+.hero-content p {
+    font-family: 'Dogfiles', sans-serif;
+    font-size: 1.2rem;
+    color: #fff;
+    margin-bottom: 2rem;
+    line-height: 1.4;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.9;
+}
+
+.hero-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.coming-soon-btn {
+    height: 55px;
+    width: auto;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.coming-soon-btn:hover {
+    transform: translateY(-2px);
+}
+
+/* Ticker Styles */
+.ticker-wrap {
+    width: 100%;
+    height: 60px;
+    background: rgba(0, 0, 0, 0.9);
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.ticker {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    animation: ticker 20s linear infinite;
+}
+
+.ticker-item {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 2rem;
+    font-family: 'Dogfiles', sans-serif;
+    font-size: 1.5rem;
+    color: var(--nav-text-color);
+    /* Повторюємо текст кілька разів для безперервності */
+}
+
+.ticker::after {
+    content: "ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL";
+    font-family: 'Dogfiles', sans-serif;
+    font-size: 1.5rem;
+    color: var(--nav-text-color);
+    padding: 0 2rem;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+@keyframes ticker {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+    100% {
+        transform: translate3d(-50%, 0, 0);
+    }
+}
+
+/* About Section */
+.about {
+    padding: 100px 5% 0;
+    background: #DEFF00;
+    position: relative;
+    overflow: hidden;
+}
+
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.about-text {
+    flex: 1;
+    max-width: 600px;
+}
+
+.about-text h2 {
+    font-family: 'Milkyway', cursive;
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+    color: #A86EE3;
+    text-transform: uppercase;
+}
+
+.about-text p {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+.about-image {
+    flex: 1;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-image img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+
+/* Tokenomics Section */
+.tokenomics {
+    background: #A86EE3;
+    display: flex;
+    flex-direction: column;
+}
+
+.tokenomics h2 {
+    font-family: 'Milkyway', cursive;
+    font-size: 5rem;
+    color: #DEFF00;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 3rem;
+    -webkit-text-stroke: 2px black;
+    text-stroke: 2px black;
+}
+
+.tokenomics-wrapper {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    padding: 0 3%;
+    margin: 80px 0;
+}
+
+.tokenomics-image {
+    display: flex;
+    flex: 1;
+}
+
+.tokenomics-image.left {
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.tokenomics-image.right {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: 20px;
+}
+
+.tokenomics-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 20px;
+    flex: 1;
+}
+
+.tokenomics-content p {
+    font-family: 'Milkyway', cursive;
+    font-size: 2.5rem;
+    color: #DEFF00;
+    margin: 15px 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
+}
+
+.tokenomics-image.left img {
+    height: 400px;
+    width: auto;
+}
+
+.tokenomics-image.right img {
+    height: 300px;
+    width: auto;
+}
+
+.bottom-ticker {
+    width: 100%;
+    height: 60px;
+    background: #000;
+    overflow: hidden;
+}
+
+.bottom-ticker .ticker {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    animation: ticker 20s linear infinite;
+}
+
+.bottom-ticker .ticker::after {
+    content: "ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL";
+    font-family: 'Milkyway', cursive;
+    font-size: 2rem;
+    color: #A86EE3;
+    padding: 0 2rem;
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+/* How to Buy Section */
+.how-to-buy {
+    padding: 100px 5%;
+    background: rgba(108, 99, 255, 0.05);
+}
+
+.steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.step-card {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.step-card h3 {
+    font-family: 'Milkyway', cursive;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.step-card p {
+    font-family: 'Dogfiles', sans-serif;
+    font-size: 1.2rem;
+}
+
+/* Links Section */
+.links {
+    padding: 100px 5%;
+    text-align: center;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.social-links a {
+    color: var(--text-color);
+    font-size: 2rem;
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: var(--primary-color);
+}
+
+/* Responsive Design */
+@media screen and (max-width: 1400px) {
+    .hero-content {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .hero-content {
+        width: 60%;
+    }
+    
+    .hero-title {
+        max-width: 400px;
+    }
+
+    .tokenomics-wrapper {
+        margin: 60px 0;
+    }
+
+    .tokenomics-image.left {
+        padding-right: 15px;
+    }
+
+    .tokenomics-image.right {
+        padding-left: 15px;
+    }
+
+    .tokenomics-image.left img {
+        height: 300px;
+    }
+
+    .tokenomics-image.right img {
+        height: 250px;
+    }
+
+    .tokenomics-content p {
+        margin: 12px 0;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .hero-content {
+        width: 70%;
+    }
+
+    .about-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 2rem;
+    }
+
+    .about-text {
+        max-width: 100%;
+    }
+
+    .about-text h2 {
+        font-size: 3rem;
+    }
+
+    .about-image {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .burger {
+        display: block;
+        z-index: 2;
+    }
+
+    .nav-links {
+        position: fixed;
+        right: -100%;
+        top: 0;
+        height: 100vh;
+        background: var(--background-color);
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        transition: right 0.5s ease;
+        gap: 2rem;
+    }
+
+    .nav-links a {
+        font-size: 1.2rem;
+    }
+
+    .nav-active {
+        right: 0;
+    }
+    
+    .hero {
+        min-height: 100vh;
+        padding: 100px 5% 30px;
+        justify-content: center;
+    }
+
+    .hero::before {
+        background-image: url('./img/bgMob.png');
+    }
+
+    .hero-content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        min-height: calc(100vh - 150px);
+        margin: 0;
+        padding: 0;
+    }
+
+    .hero-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .hero-title {
+        max-width: 400px;
+        width: 90%;
+    }
+
+    .hero-content p {
+        font-size: 1.2rem;
+        text-align: center;
+        max-width: 90%;
+    }
+
+    .hero-buttons {
+        margin-top: auto;
+        padding-bottom: 30px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .coming-soon-btn {
+        height: 55px;
+    }
+
+    .ticker::after {
+        font-size: 1.2rem;
+    }
+
+    .about {
+        padding: 60px 5%;
+    }
+
+    .about-text h2 {
+        font-size: 2.5rem;
+    }
+
+    .about-text p {
+        font-size: 1rem;
+    }
+
+    .about-image {
+        max-width: 300px;
+    }
+
+    .tokenomics h2 {
+        -webkit-text-stroke: 1.5px black;
+        text-stroke: 1.5px black;
+    }
+
+    .tokenomics-wrapper {
+        padding: 0 2%;
+        margin: 40px 0;
+    }
+
+    .tokenomics-image.left {
+        padding-right: 10px;
+    }
+
+    .tokenomics-image.right {
+        padding-left: 10px;
+    }
+
+    .tokenomics-content {
+        padding: 0 15px;
+    }
+
+    .tokenomics-content p {
+        font-size: 1.8rem;
+        margin: 10px 0;
+        -webkit-text-stroke: 0.8px black;
+        text-stroke: 0.8px black;
+    }
+
+    .tokenomics-image.left img {
+        height: 200px;
+    }
+
+    .tokenomics-image.right img {
+        height: 250px;
+    }
+
+    .bottom-ticker .ticker::after {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .hero {
+        height: calc(60vh - 120px);
+        padding: 80px 5% 0;
+    }
+
+    .ticker-item {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .hero {
+        padding: 80px 5% 20px;
+    }
+
+    .hero-content {
+        min-height: calc(100vh - 120px);
+    }
+
+    .hero-text {
+        margin-top: 10px;
+    }
+
+    .hero-title {
+        max-width: 320px;
+        width: 95%;
+    }
+
+    .hero-content p {
+        font-size: 1.1rem;
+        padding: 0 15px;
+        width: 90%;
+    }
+
+    .hero-buttons {
+        padding-bottom: 20px;
+    }
+
+    .coming-soon-btn {
+        height: 50px;
+    }
+
+    .ticker::after {
+        font-size: 1rem;
+    }
+
+    .about {
+        padding: 40px 5%;
+    }
+
+    .about-text h2 {
+        font-size: 2rem;
+    }
+
+    .about-image {
+        max-width: 250px;
+    }
+
+    .tokenomics h2 {
+        -webkit-text-stroke: 1px black;
+        text-stroke: 1px black;
+    }
+
+    .tokenomics-wrapper {
+        padding: 0 1%;
+        margin: 30px 0;
+    }
+
+    .tokenomics-image.left {
+        padding-right: 5px;
+    }
+
+    .tokenomics-image.right {
+        padding-left: 5px;
+    }
+
+    .tokenomics-content {
+        padding: 0 10px;
+    }
+
+    .tokenomics-content p {
+        font-size: 1.4rem;
+        margin: 8px 0;
+        -webkit-text-stroke: 0.5px black;
+        text-stroke: 0.5px black;
+    }
+
+    .tokenomics-image.left img {
+        height: 150px;
+    }
+
+    .tokenomics-image.right img {
+        height: 200px;
+    }
+
+    .bottom-ticker .ticker::after {
+        font-size: 1.2rem;
+    }
+}
+
+/* Для дуже високих екранів */
+@media screen and (min-height: 1000px) {
+    .hero {
+        height: calc(80vh - 120px);
+    }
+}
+
+/* Для дуже широких екранів */
+@media screen and (min-aspect-ratio: 16/9) {
+    .hero {
+        height: calc(90vh - 120px);
+    }
+}
+
+h2 {
+    font-family: 'Milkyway', cursive;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.about-text h2 {
+    font-family: 'Milkyway', cursive;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.about-text p {
+    font-family: 'Dogfiles', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.transition-image {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    margin-top: -1px;
+    margin-bottom: -1px;
+}
+
+.transition-image img {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+} 
