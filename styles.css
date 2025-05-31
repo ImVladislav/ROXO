@@ -354,27 +354,37 @@ body {
     gap: 4rem;
     max-width: 1400px;
     margin: 0 auto;
+    align-items: flex-end;
 }
 
 .about-text {
     flex: 1;
-    max-width: 600px;
+    padding: 30px 0;
 }
 
 .about-text h2 {
     font-family: 'Milkyway', cursive;
-    font-size: 4rem;
-    margin-bottom: 1.5rem;
+    font-size: 9rem;;
+    margin-bottom: -4.5rem;
     color: #A86EE3;
     text-transform: uppercase;
+    -webkit-text-stroke: 2px black;
+    text-stroke: 2px black;
+    padding: 20px;
+    text-align: center;
 }
 
 .about-text p {
-    font-family: 'Space Grotesk', sans-serif;
-    font-size: 1.1rem;
-    line-height: 1.6;
+    font-family: 'Dogfiles', sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5;
     color: #000000;
     margin-bottom: 1rem;
+    padding: 0px;
+    text-align: left;
+    max-width: 428px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .about-image {
@@ -382,14 +392,16 @@ body {
     max-width: 500px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
+    /* padding-bottom: 20px; */
 }
 
 .about-image img {
-    width: 100%;
+    max-width: 60%;
     height: auto;
     object-fit: contain;
     display: block;
+    margin-bottom: 0;
 }
 
 /* Tokenomics Section */
@@ -442,6 +454,17 @@ body {
     justify-content: center;
     padding: 0 20px;
     flex: 1;
+}
+
+.tokenomics-content h2 {
+    font-family: 'Milkyway', cursive;
+    font-size: 5rem;
+    color: #DEFF00;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 3rem;
+    -webkit-text-stroke: 2px black;
+    text-stroke: 2px black;
 }
 
 .tokenomics-content p {
@@ -873,7 +896,12 @@ body {
     }
 
     .about-text {
-        max-width: 100%;
+        padding: 20px;
+    }
+
+    .about-text p {
+        font-size: 0.8rem;
+        max-width: 90%;
     }
 
     .about-image {
@@ -890,6 +918,21 @@ body {
 
     .hero::before {
         background-image: url('./img/bgMob.png');
+    }
+
+    .about-text h2 {
+        font-size: 9rem;;
+        padding: 15px;
+    }
+
+    .about-text p {
+        font-size: 0.8rem;
+        padding: 0 15px;
+    }
+
+    .about-image img {
+        max-width: 80%;
+        margin: 0 auto;
     }
 }
 
@@ -935,7 +978,7 @@ body {
     }
 
     .about-text h2 {
-        font-size: 2.5rem;
+        font-size: 9rem;;
     }
 
     .about-text p {
@@ -1011,14 +1054,22 @@ h2 {
 
 .about-text h2 {
     font-family: 'Milkyway', cursive;
-    font-size: 3rem;
-    margin-bottom: 1.5rem;
+    font-size: 9rem;;
+    margin-bottom: -4.5rem;
+    
 }
 
 .about-text p {
     font-family: 'Dogfiles', sans-serif;
-    font-size: 1.2rem;
-    line-height: 1.8;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #000000;
+    margin-bottom: 1rem;
+    padding: 0px;
+    text-align: left;
+    max-width: 428px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .transition-image {
