@@ -1,7 +1,7 @@
 // Mobile menu functionality
 const burger = document.querySelector('.burger');
-const nav = document.querySelector('.nav-links');
-const navLinks = document.querySelectorAll('.nav-links a');
+const nav = document.querySelector('.links-block');
+const navLinks = document.querySelectorAll('.links-block a');
 
 burger.addEventListener('click', () => {
     // Toggle navigation

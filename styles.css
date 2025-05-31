@@ -72,6 +72,9 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
+    overflow-x: hidden;
+    width: 100%;
+    position: relative;
 }
 
 /* Navigation */
@@ -79,7 +82,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 5%;
+    padding: 0 3%;
     position: fixed;
     width: 100%;
     top: 0;
@@ -88,29 +91,32 @@ body {
     backdrop-filter: blur(10px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     height: 80px;
+    gap: 40px;
 }
 
-.logo {
-    height: 100%;
+.nav-block {
     display: flex;
     align-items: center;
 }
 
-.logo img {
-    height: 100%;
+.logo-block {
+    justify-content: flex-start;
+}
+
+.logo-block img {
+    height: 45px;
     width: auto;
     object-fit: contain;
-    padding: 10px 0;
 }
 
-.nav-links {
-    display: flex;
+.links-block {
+    flex: 1;
+    justify-content: center;
     gap: 3rem;
-    align-items: center;
-    margin-left: 100px;
+    padding: 0 20px;
 }
 
-.nav-links a {
+.links-block a {
     color: var(--nav-text-color);
     text-decoration: none;
     font-weight: 500;
@@ -122,12 +128,12 @@ body {
     font-family: 'Dogfiles', sans-serif;
 }
 
-.nav-links a:hover {
+.links-block a:hover {
     color: var(--nav-text-color);
     transform: translateY(-2px);
 }
 
-.nav-links a::after {
+.links-block a::after {
     content: '';
     position: absolute;
     width: 100%;
@@ -139,42 +145,30 @@ body {
     transition: transform 0.3s ease;
 }
 
-.nav-links a:hover::after {
+.links-block a:hover::after {
     transform: scaleX(1);
 }
 
-.buy-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: transform 0.3s ease;
-    background: none;
-    border: none;
-    padding: 0;
+.button-block {
+    width: 140px;
+    justify-content: flex-end;
 }
 
-.buy-button::after {
-    display: none;
-}
-
-.buy-button img {
-    height: 55px;
+.button-block img {
+    height: 40px;
     width: auto;
+    transition: transform 0.3s ease;
 }
 
-.buy-button:hover {
+.button-block img:hover {
     transform: translateY(-2px);
-}
-
-/* Збільшуємо розмір кнопки в хедері */
-.navbar .buy-button img {
-    height: 60px;
 }
 
 /* Burger Menu */
 .burger {
     display: none;
     cursor: pointer;
+    z-index: 1001;
 }
 
 .burger div {
@@ -219,7 +213,8 @@ body {
     align-items: center;
     justify-content: flex-end;
     padding: 80px 5% 0;
-    overflow: visible;
+    overflow: hidden;
+    box-sizing: border-box;
 }
 
 .hero::before {
@@ -227,6 +222,8 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+    right: 0;
+    bottom: 0;
     width: 100%;
     height: 100%;
     background-image: url('./img/hero_bg.png');
@@ -265,6 +262,18 @@ body {
     margin-left: auto;
     margin-right: auto;
     opacity: 0.9;
+    text-shadow: 5px 5px 3px #000,
+                -5px 5px 3px #000,
+                5px -5px 3px #000,
+                -5px -5px 3px #000,
+                0px 5px 3px #000,
+                0px -5px 3px #000,
+                -5px 0px 3px #000,
+                5px 0px 3px #000,
+                3px 3px 3px #000,
+                -3px 3px 3px #000,
+                3px -3px 3px #000,
+                -3px -3px 3px #000;
 }
 
 .hero-buttons {
@@ -303,28 +312,22 @@ body {
     display: flex;
     align-items: center;
     white-space: nowrap;
-    animation: ticker 20s linear infinite;
+    animation: ticker 12s linear infinite;
+    padding-left: 0;
 }
 
 .ticker-item {
     display: inline-flex;
     align-items: center;
-    padding: 0 2rem;
-    font-family: 'Dogfiles', sans-serif;
-    font-size: 1.5rem;
+    font-family: 'Milkyway', cursive;
+    font-size: 2rem;
     color: var(--nav-text-color);
-    /* Повторюємо текст кілька разів для безперервності */
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
-.ticker::after {
-    content: "ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL";
-    font-family: 'Dogfiles', sans-serif;
-    font-size: 1.5rem;
-    color: var(--nav-text-color);
-    padding: 0 2rem;
-    display: inline-flex;
-    align-items: center;
-    white-space: nowrap;
+.ticker-item:after {
+    content: "ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL";
 }
 
 @keyframes ticker {
@@ -332,7 +335,7 @@ body {
         transform: translate3d(0, 0, 0);
     }
     100% {
-        transform: translate3d(-50%, 0, 0);
+        transform: translate3d(-16.666%, 0, 0);
     }
 }
 
@@ -470,22 +473,17 @@ body {
 }
 
 .bottom-ticker .ticker {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    white-space: nowrap;
-    animation: ticker 20s linear infinite;
+    padding-left: 0;
+    animation: ticker 12s linear infinite;
 }
 
 .bottom-ticker .ticker::after {
-    content: "ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL ROXO ON SOL";
+    content: "ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL";
     font-family: 'Milkyway', cursive;
     font-size: 2rem;
     color: #A86EE3;
-    padding: 0 2rem;
-    display: inline-flex;
-    align-items: center;
     white-space: nowrap;
+    flex-shrink: 0;
 }
 
 /* How to Buy Section */
@@ -535,7 +533,7 @@ body {
 }
 
 .buy-button img {
-    width: 200px;
+    width: 140px;
     height: auto;
 }
 
@@ -699,6 +697,19 @@ body {
 
 /* Responsive Styles */
 @media screen and (max-width: 1200px) {
+    .navbar {
+        gap: 20px;
+        padding: 0 2%;
+    }
+
+    .button-block {
+        width: 120px;
+    }
+
+    .links-block {
+        padding: 0 10px;
+    }
+
     .how-to-buy-container {
         padding: 40px 4%;
     }
@@ -731,13 +742,63 @@ body {
     }
 }
 
-@media screen and (max-width: 768px) {
-    .nav-links {
+@media screen and (max-width: 1024px) {
+    .navbar {
+        justify-content: space-between;
+        padding: 0 4%;
+    }
+
+    .button-block {
+        display: none;
+    }
+
+    .links-block {
         display: none;
     }
 
     .burger {
         display: block;
+    }
+
+    .nav-active {
+        display: flex !important;
+        position: fixed;
+        right: 0;
+        top: 80px;
+        flex-direction: column;
+        background: rgba(0, 0, 0, 0.95);
+        backdrop-filter: blur(10px);
+        width: 100%;
+        align-items: center;
+        padding: 40px 0;
+        gap: 30px;
+        z-index: 1000;
+    }
+
+    .nav-active a {
+        font-size: 1.2rem;
+        opacity: 1;
+    }
+
+    .links-block.nav-active {
+        display: flex !important;
+    }
+
+    @keyframes navLinkFade {
+        from {
+            opacity: 0;
+            transform: translateX(50px);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav-links {
+        display: none;
     }
 
     .how-to-buy {
@@ -770,15 +831,36 @@ body {
     }
 
     .hero {
-        justify-content: flex-end;
-        align-items: flex-end;
+        padding: 60px 20px 0;
+        min-height: 100vh;
+        height: auto;
     }
 
     .hero-content {
-        width: 80%;
-        margin-top: 0;
-        margin-bottom: 40px;
-        align-self: flex-end;
+        width: 100%;
+        max-width: 500px;
+        margin: auto auto 40px;
+        padding: 0 15px;
+        box-sizing: border-box;
+    }
+
+    .tokenomics-wrapper {
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .tokenomics-image.left,
+    .tokenomics-image.right {
+        padding: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .tokenomics-image img {
+        max-width: 100%;
+        height: auto;
     }
 
     .hero-title {
@@ -844,9 +926,8 @@ body {
     }
 
     .hero-content {
-        width: 90%;
-        padding: 15px;
         margin-bottom: 30px;
+        padding: 0 10px;
     }
 
     .hero-content p {
