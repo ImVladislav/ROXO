@@ -233,6 +233,20 @@ body {
     z-index: -1;
 }
 
+/* Background for screens from mobile to 1240px */
+@media screen and (max-width: 1240px) {
+    .hero::before {
+        background-image: url('./img/bg_plantshet.png');
+    }
+}
+
+/* Background for screens up to 920px */
+@media screen and (max-width: 920px) {
+    .hero::before {
+        background-image: url('./img/bgMob.png');
+    }
+}
+
 .hero-content {
     text-align: center;
     width: 50%;
@@ -303,8 +317,9 @@ body {
     padding: 0;
     overflow: hidden;
     position: relative;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.9);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+    margin-top: 16px;
 }
 
 .ticker {
@@ -320,7 +335,7 @@ body {
     display: inline-flex;
     align-items: center;
     font-family: 'Milkyway', cursive;
-    font-size: 2rem;
+    font-size: 3.5rem;
     color: var(--nav-text-color);
     white-space: nowrap;
     flex-shrink: 0;
@@ -492,6 +507,9 @@ body {
     height: 60px;
     background: #000;
     overflow: hidden;
+    border-top: 1px solid rgba(0, 0, 0, 0.9);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+    padding-top: 14px;
 }
 
 .bottom-ticker .ticker {
@@ -502,7 +520,7 @@ body {
 .bottom-ticker .ticker::after {
     content: "ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL\00a0\00a0ROXO ON SOL";
     font-family: 'Milkyway', cursive;
-    font-size: 2rem;
+    font-size: 3.5rem;
     color: #A86EE3;
     white-space: nowrap;
     flex-shrink: 0;
@@ -663,7 +681,7 @@ body {
     margin-top: -20px;
     text-align: center;
     position: relative;
-    padding-bottom: 40px;
+    /* padding-bottom: 40px; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -913,10 +931,6 @@ body {
 
     .tokenomics-content p {
         font-size: 2rem;
-    }
-
-    .hero::before {
-        background-image: url('./img/bgMob.png');
     }
 
     .about-text h2 {
