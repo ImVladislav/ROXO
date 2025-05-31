@@ -494,20 +494,19 @@ body {
     background: #A86EE3;
     display: flex;
     flex-direction: column;
-    padding: 40px 20px;
+    padding: 40px 0;
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
     width: 100%;
 }
 
 .how-to-buy-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: flex-start;
-    gap: 80px;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
-    padding: 40px 20px;
+    padding: 40px 5%;
     width: 100%;
     box-sizing: border-box;
 }
@@ -515,6 +514,7 @@ body {
 .how-to-buy-left {
     flex: 0 0 auto;
     text-align: center;
+    margin-right: 80px;
 }
 
 .how-to-buy h2 {
@@ -544,27 +544,36 @@ body {
 }
 
 .how-to-buy-right {
-    flex: 0 0 550px;
-    max-width: 550px;
+    flex: 1;
     width: 100%;
+    position: relative;
+    min-width: 0; /* Для правильного flex-shrink */
 }
 
 .how-to-buy-swiper {
     width: 100%;
-    max-width: 550px;
+    position: relative;
+    padding-bottom: 40px;
 }
 
 .instruction-box {
     background: #A86EE3;
     border: 2px solid #DEFF00;
-    padding: 40px;
+    padding: 30px;
     border-radius: 15px;
     position: relative;
-    min-height: 300px;
+    min-height: 320px;
     display: flex;
     flex-direction: column;
     width: 100%;
     box-sizing: border-box;
+}
+
+.instruction-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 
 .instruction-box .step {
@@ -573,7 +582,6 @@ body {
     color: #DEFF00;
     -webkit-text-stroke: 1px black;
     text-stroke: 1px black;
-    margin-bottom: 10px;
 }
 
 .instruction-box .title {
@@ -582,30 +590,45 @@ body {
     color: #DEFF00;
     -webkit-text-stroke: 1px black;
     text-stroke: 1px black;
-    margin-bottom: 20px;
 }
 
 .instruction-box p {
     font-family: 'Dogfiles', sans-serif;
     font-size: 1.2rem;
     color: #DEFF00;
-    line-height: 1.5;
-    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+.swiper-wrapper {
+    position: relative;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic,
+.swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
+    left: 50%;
+    margin: 4px;
+}
+
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal.swiper-pagination-bullets-dynamic {
+    transform: none !important;
 }
 
 .swiper-pagination {
     position: absolute !important;
-    bottom: 20px !important;
+    bottom: 0 !important;
     left: 0 !important;
     right: 0 !important;
+    width: 100% !important;
     display: flex;
     justify-content: center;
     gap: 8px;
+    z-index: 10;
+    padding: 10px 0;
 }
 
 .swiper-pagination-bullet {
-    width: 10px !important;
-    height: 10px !important;
+    width: 12px !important;
+    height: 12px !important;
     background: #DEFF00 !important;
     opacity: 0.5 !important;
     margin: 0 !important;
@@ -661,17 +684,7 @@ body {
 /* Responsive Styles */
 @media screen and (max-width: 1200px) {
     .how-to-buy-container {
-        gap: 40px;
-        padding: 40px 30px;
-    }
-
-    .how-to-buy-right {
-        flex: 0 0 500px;
-        max-width: 500px;
-    }
-
-    .how-to-buy h2 {
-        font-size: 4.5rem;
+        padding: 40px 4%;
     }
 }
 
@@ -683,20 +696,23 @@ body {
         padding: 40px 20px;
     }
 
-    .how-to-buy-right {
-        flex: 0 0 auto;
-        width: 100%;
-        max-width: 550px;
+    .how-to-buy-left {
+        margin-right: 0;
     }
 
-    .instruction-box {
+    .how-to-buy-right {
         width: 100%;
+        max-width: 800px;
     }
 }
 
 @media screen and (max-width: 768px) {
+    .how-to-buy {
+        padding: 30px 0;
+    }
+
     .how-to-buy-container {
-        padding: 30px 20px;
+        padding: 30px 15px;
     }
 
     .how-to-buy h2 {
@@ -708,8 +724,12 @@ body {
     }
 
     .instruction-box {
-        padding: 30px 20px;
-        min-height: 250px;
+        padding: 25px;
+        min-height: 280px;
+    }
+    
+    .instruction-content {
+        margin-bottom: 15px;
     }
 
     .instruction-box .step {
@@ -722,13 +742,24 @@ body {
 
     .instruction-box p {
         font-size: 1.1rem;
-        margin-bottom: 30px;
+    }
+
+    .swiper-pagination {
+        bottom: -25px !important;
+    }
+
+    .how-to-buy-swiper {
+        padding-bottom: 35px;
     }
 }
 
 @media screen and (max-width: 480px) {
+    .how-to-buy {
+        padding: 20px 0;
+    }
+
     .how-to-buy-container {
-        padding: 20px 15px;
+        padding: 20px 10px;
     }
 
     .how-to-buy h2 {
@@ -740,8 +771,12 @@ body {
     }
 
     .instruction-box {
-        padding: 20px 15px;
-        min-height: 200px;
+        padding: 20px;
+        min-height: 260px;
+    }
+    
+    .instruction-content {
+        margin-bottom: 10px;
     }
 
     .instruction-box .step {
@@ -754,7 +789,14 @@ body {
 
     .instruction-box p {
         font-size: 1rem;
-        margin-bottom: 25px;
+    }
+
+    .swiper-pagination {
+        bottom: -20px !important;
+    }
+
+    .how-to-buy-swiper {
+        padding-bottom: 30px;
     }
 }
 

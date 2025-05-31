@@ -34,8 +34,37 @@ const initMobileMenu = () => {
     });
 };
 
+// Initialize Swiper
+const initSwiper = () => {
+    const swiper = new Swiper('.how-to-buy-swiper', {
+        slidesPerView: 1,
+        spaceBetween: 30,
+        loop: true,
+        speed: 1000,
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+            pauseOnMouseEnter: true
+        },
+        effect: 'fade',
+        fadeEffect: {
+            crossFade: true
+        },
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+            renderBullet: function (index, className) {
+                return '<span class="' + className + '"></span>';
+            },
+            dynamicBullets: true,
+            dynamicMainBullets: 4
+        }
+    });
+};
+
 // Initialize all functions
 document.addEventListener('DOMContentLoaded', () => {
     initSmoothScroll();
     initMobileMenu();
+    initSwiper();
 }); 
