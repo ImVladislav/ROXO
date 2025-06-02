@@ -74,6 +74,7 @@ body {
   line-height: 1.6;
   overflow-x: hidden;
   width: 100%;
+  max-width: 100vw;
   position: relative;
 }
 
@@ -104,7 +105,7 @@ body {
 }
 
 .logo-block img {
-  height: 45px;
+  height: 55px;
   width: auto;
   object-fit: contain;
 }
@@ -120,12 +121,12 @@ body {
   color: var(--nav-text-color);
   text-decoration: none;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
   letter-spacing: 1px;
   transition: all 0.3s ease;
   position: relative;
   padding: 5px 0;
-  font-family: "Dogfiles", sans-serif;
+  font-family: "Milkyway", sans-serif;
 }
 
 .links-block a:hover {
@@ -208,6 +209,7 @@ body {
 .hero {
   position: relative;
   width: 100%;
+  max-width: 100vw;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -267,12 +269,14 @@ body {
 }
 
 .hero-content p {
-  font-family: "Dogfiles", sans-serif;
-  font-size: 1.2rem;
+  font-family: "Milkyway";
+  -webkit-text-stroke: 1px #a86ee3;
+  text-stroke: 1px #a86ee3;
+  font-size: 1.6rem;
   color: #fff;
   margin-bottom: 2rem;
   line-height: 1.4;
-  max-width: 600px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
   opacity: 0.9;
@@ -341,7 +345,7 @@ body {
   align-items: center;
   font-family: "Milkyway", cursive;
   font-size: 3.5rem;
-  color: var(--nav-text-color);
+  color: #deff00;
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -365,6 +369,8 @@ body {
   background: #deff00;
   position: relative;
   overflow: hidden;
+  width: 100%;
+  max-width: 100vw;
 }
 
 .about-content {
@@ -388,15 +394,15 @@ body {
   margin-bottom: -4.5rem;
   color: #a86ee3;
   text-transform: uppercase;
-  -webkit-text-stroke: 2px black;
-  text-stroke: 2px black;
+  -webkit-text-stroke: 1px black;
+  text-stroke: 1px black;
   padding: 20px;
   text-align: center;
 }
 
 .about-text p {
-  font-family: "Dogfiles", sans-serif;
-  font-size: 0.9rem;
+  font-family: "Milkyway";
+  font-size: 1rem;
   line-height: 1.5;
   color: #000000;
   margin-bottom: 1rem;
@@ -405,6 +411,7 @@ body {
   max-width: 428px;
   margin-right: auto;
   margin-left: auto;
+  letter-spacing: 0px;
 }
 
 .about-image {
@@ -429,6 +436,9 @@ body {
   background: #a86ee3;
   display: flex;
   flex-direction: column;
+  width: 100%;
+  max-width: 100vw;
+  overflow: hidden;
 }
 
 .tokenomics h2 {
@@ -448,6 +458,9 @@ body {
   justify-content: space-between;
   padding: 0 3%;
   margin: 80px 0;
+  padding: 0 15px;
+  margin: 40px 0;
+  flex-direction: column;
 }
 
 .tokenomics-image {
@@ -478,7 +491,8 @@ body {
 
 .tokenomics-content h2 {
   font-family: "Milkyway", cursive;
-  font-size: 5rem;
+  font-size: 7rem;
+  font-weight: 900;
   color: #deff00;
   text-transform: uppercase;
   text-align: center;
@@ -541,6 +555,7 @@ body {
   position: relative;
   overflow: hidden;
   width: 100%;
+  max-width: 100vw;
 }
 
 .how-to-buy-container {
@@ -553,6 +568,9 @@ body {
   width: 100%;
   box-sizing: border-box;
   align-items: center;
+  padding: 20px 15px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .how-to-buy-left {
@@ -579,11 +597,25 @@ body {
 }
 
 .buy-button img {
-  width: 140px;
+  width: 270px;
   height: auto;
 }
 
 .buy-button:hover {
+  transform: translateY(-2px);
+}
+
+.buy-button-top {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.buy-button-top img {
+  width: 170px;
+  height: auto;
+}
+
+.buy-button-top:hover {
   transform: translateY(-2px);
 }
 
@@ -611,6 +643,9 @@ body {
   flex-direction: column;
   width: 100%;
   box-sizing: border-box;
+  padding: 20px 15px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .instruction-content {
@@ -621,11 +656,13 @@ body {
 }
 
 .instruction-box .step {
-  font-family: "Milkyway", cursive;
+  font-family: Arial, sans-serif;
   font-size: 3rem;
   color: #deff00;
-  -webkit-text-stroke: 3px black;
-  text-stroke: 3px black;
+  -webkit-text-stroke: 2px black;
+  text-stroke: 2px black;
+  font-weight: 900;
+  letter-spacing: -2px;
 }
 
 .number {
@@ -651,18 +688,20 @@ body {
 }
 
 .instruction-box .title {
-  font-family: "Milkyway", cursive;
+  font-family: "DOGFILES", cursive;
   font-size: 3.5rem;
   color: #deff00;
   -webkit-text-stroke: 3px black;
   text-stroke: 3px black;
+  letter-spacing: -2px;
 }
 
 .instruction-box p {
-  font-family: "Dogfiles", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 1.9rem;
   color: #deff00;
   line-height: 1.6;
+  font-weight: 900;
 }
 
 .swiper-wrapper {
@@ -714,6 +753,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 0 10px;
 }
 
 .links-section h3 {
@@ -732,6 +772,7 @@ body {
   gap: 15px;
   margin-bottom: 20px;
   flex-wrap: wrap;
+  padding: 0 10px;
 }
 
 .social-link {
@@ -879,55 +920,41 @@ body {
   }
 
   .how-to-buy-container {
-    padding: 30px 15px;
+    padding: 20px 15px;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .instruction-box {
-    padding: 25px;
-    min-height: 300px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px 15px;
   }
 
-  .instruction-box .step {
-    font-size: 2.5rem;
-  }
-
-  .instruction-box .title {
-    font-size: 2rem;
-  }
-
-  .instruction-box p {
-    font-size: 1.1rem;
-  }
-
-  .hero {
-    padding: 60px 20px 0;
-    min-height: 100vh;
-    height: auto;
+  .buy-button img {
+    width: 200px;
   }
 
   .hero-content {
     width: 100%;
-    max-width: 500px;
+    max-width: 100%;
     margin: auto auto 40px;
     padding: 0 15px;
     box-sizing: border-box;
   }
 
-  .tokenomics-wrapper {
-    padding: 0 20px;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .tokenomics-image.left,
-  .tokenomics-image.right {
+  .hero-content p {
+    max-width: 100%;
     padding: 0;
-    width: 100%;
-    display: flex;
-    justify-content: center;
   }
 
-  .tokenomics-image img {
+  .tokenomics-wrapper {
+    padding: 0 15px;
+    margin: 40px 0;
+  }
+
+  .tokenomics-image.left img,
+  .tokenomics-image.right img {
     max-width: 100%;
     height: auto;
   }
@@ -1010,21 +1037,25 @@ body {
   }
 
   .instruction-box {
-    padding: 20px;
-    min-height: 320px;
+    padding: 15px;
   }
 
-  .instruction-box .step {
-    font-size: 2rem;
+  .tokenomics-wrapper {
+    padding: 0 10px;
   }
 
-  .instruction-box .title {
-    font-size: 1.8rem;
+  .links-section {
+    padding: 0 10px;
   }
 
-  .instruction-box p {
-    font-size: 1rem;
-    line-height: 1.4;
+  .social-links {
+    padding: 0 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hero {
+    padding: 60px 15px 0;
   }
 
   .hero-content {
@@ -1134,19 +1165,6 @@ h2 {
   margin-bottom: -4rem;
 }
 
-.about-text p {
-  font-family: "Dogfiles", sans-serif;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  color: #000000;
-  margin-bottom: 1rem;
-  padding: 0px;
-  text-align: left;
-  max-width: 428px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
 .transition-image {
   width: 100%;
   height: 150px;
@@ -1187,4 +1205,9 @@ h2 {
   color: #deff00;
   margin: 0;
   line-height: 1.5;
+}
+@media screen and (min-width: 1240px) {
+  .tokenomics-wrapper {
+    flex-direction: row;
+  }
 }
