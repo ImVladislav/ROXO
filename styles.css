@@ -1080,6 +1080,7 @@ body {
 
   .about-text p {
     font-size: 1rem;
+    margin-top: 60px;
   }
 
   .tokenomics h2 {
@@ -1087,7 +1088,7 @@ body {
   }
 
   .tokenomics-content p {
-    font-size: 1.6rem;
+    font-size: 2rem;
   }
 
   .tokenomics-image.left img,
