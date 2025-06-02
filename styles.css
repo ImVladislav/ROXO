@@ -633,7 +633,7 @@ body {
 .how-to-buy-swiper {
   width: 100%;
   position: relative;
-  padding-bottom: 40px;
+  height: auto;
 }
 
 .instruction-box {
@@ -642,14 +642,11 @@ body {
   padding: 30px;
   border-radius: 6px;
   position: relative;
-  min-height: 460px;
   display: flex;
   flex-direction: column;
   width: 100%;
   box-sizing: border-box;
-  padding: 20px 15px;
-  width: 100%;
-  box-sizing: border-box;
+  min-height: 460px;
 }
 
 .instruction-content {
@@ -657,6 +654,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 15px;
+  padding-bottom: 40px;
 }
 
 .instruction-box .step {
@@ -715,8 +713,12 @@ body {
 .swiper-horizontal
   > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic,
 .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
-  left: 50%;
-  margin: 4px;
+  transform: translateX(0) !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
 }
 
 .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal.swiper-pagination-bullets-dynamic {
@@ -734,6 +736,7 @@ body {
   gap: 8px;
   z-index: 10;
   padding: 10px 0;
+  background: transparent;
 }
 
 .swiper-pagination-bullet {
@@ -852,7 +855,7 @@ body {
   }
 
   .instruction-box {
-    min-height: 350px;
+    min-height: 400px;
   }
 }
 
